@@ -7,3 +7,7 @@ Automating financial research related to peace and human rights
 ## Projects:
 - Compare lists maintained by AFSC and other peace-oriented organizations to lists maintained by SEC of public investment information.
 - Develop analysis and advice related to responsible investing.
+
+## To-do / bugs:
+- Currently a set of notebooks, not importable and executable code.
+- File names in the `data` subdirectory are a mess.
