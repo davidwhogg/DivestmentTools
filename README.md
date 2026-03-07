@@ -10,5 +10,6 @@ Automating financial research related to peace and human rights
 
 ## To-do / bugs:
 - Currently a set of notebooks, not importable and executable code.
+- Doesn't deal with recursion: Some mutual funds invest in *other* mutual funds; this isn't captured, noticed, or handled *at all* rn.
 - Currently only does SEC-listed mutual funds, not ETFs or other kinds of securities.
 - File names in the `data` subdirectory are a mess.
